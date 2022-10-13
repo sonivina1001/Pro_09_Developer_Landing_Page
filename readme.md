@@ -4,7 +4,7 @@
 
 ![Time Taken](https://img.shields.io/badge/TIME_TAKEN-04h:00m:00s-blue.svg)
 
-[![DEMO](https://img.shields.io/badge/SEE_DEMO-view-red.svg)](https://pro-09-developer-landing-page.netlify.app/)
+[![DEMO](https://img.shields.io/badge/SEE_DEMO-view-red.svg)](https://pro-09-developer-land.netlify.app/)
 
 # Developer island
 
