@@ -4,7 +4,7 @@
 
 ![Time Taken](https://img.shields.io/badge/TIME_TAKEN-04h:00m:00s-blue.svg)
 
-[![DEMO](https://img.shields.io/badge/SEE_DEMO-view-red.svg)](https://pro-01-street-style-core-html-and-css.netlify.app/)
+[![DEMO](https://img.shields.io/badge/SEE_DEMO-view-red.svg)](https://pro-09-developer-landing-page.netlify.app/)
 
 # Developer island
 
@@ -29,7 +29,7 @@
 
 
 ## Device support 
-<ins>**The site is compatible with desktop/laptop screens and also fully mobile responsive .**</ins>
+<ins>**The site is compatible with desktop/laptop screens and also fully mobile responsive for under 500 width .**</ins>
 
 ## 🛠 Skills
 HTML, CSS...
